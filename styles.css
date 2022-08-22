@@ -1,0 +1,51 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+
+.header,
+footer {
+  width: 100%;
+  background-color: rgb(143, 0, 255);
+  text-align: center;
+  color: white;
+  margin-top: 0;
+}
+
+h1 {
+  margin: 0;
+}
+
+.profile-image {
+  height: 50px;
+  border-radius: 25px;
+  margin: auto;
+}
+
+.card {
+  border: solid;
+  border-color: rgb(155, 155, 155);
+  border-width: 5px;
+  margin: 50px auto;
+  width: 60%;
+  box-shadow: 10px 10px rgb(100, 100, 100);
+
+}
+
+h2 {
+  text-align: center;
+}
+
+footer {
+  height: 100px;
+  padding-top: 10px;
+  padding-bottom: 0;
+}
+
+.divider {
+  background-color: rgb(155, 155, 155);
+  height: 5px;
+  width: 50%;
+  margin: auto;
+  border-radius: 15px;
+}
